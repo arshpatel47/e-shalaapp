@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.eng_head{
+    background-color: rgb(235, 235, 232);
+    text-align: center;
+    padding: 5px;
+   
+    font-size: 12px;
+    
+}
+.units_head{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border: 2px  dotted black;
+    text-align: center;
+}
+.videos{
+   text-align: center;
+    
+}
+#video{
+    width: 300px;
+    height: 250px;
+}
+.copyright_e-shala{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30PX;
+}
+/* #COPY{
+    padding-bottom: 5PX;
+} */
+#logo_f_e-shala{
+    height:80px;
+}
+.copyright_e-shala p {
+   
+    color: rgb(206, 206, 206);
+    font-family:inherit;
+    font-size: 13px;
+
+}
