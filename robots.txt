@@ -4,4 +4,7 @@ Allow:/index.html/
 Allow:/Info.html/
 Allow:/Resume.html/
 Allow:/Contact.html/
+
 Disallow: /database/
+
+sitemap:https://patelarsh.com/sitemap.xml/
